@@ -1,4 +1,5 @@
+<!DOCTYPE html>
 <meta charset="utf-8">
-<title>Redirecting to https://hudaku.wixsite.com/adriangl98/</title>
+<title>Redirecting to https://hudaku.wixsite.com/adriangl98
 <meta http-equiv="refresh" content="0; URL=https://hudaku.wixsite.com/adriangl98/">
 <link rel="canonical" href="https://hudaku.wixsite.com/adriangl98/">
